@@ -1,5 +1,5 @@
 ## About me
-My name is Jacob! I'm a first-year student at the University of Chicago, interested in declaring a major in Computer Science and a dual minor in Classical Studies and Russian & East European Studies. 
+My name is Jacob! I'm a first-year student at the University of Chicago, planning to declare a major in Computer Science and a dual minor in Classical Studies and Russian & East European Studies. 
 
 Previously, I undertook research into talking-head models and acoustic parameters as part of a project @ [Algoverse AI](https://algoverse.ai); I also did some volunteer (and relatively minor) security auditing @ [DreamyUni](https://dreamyuni.ai), a college admissions startup with over 10,000 users. 
 
